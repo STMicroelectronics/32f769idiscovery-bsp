@@ -35,6 +35,7 @@ Below is the list of the BSP *component* drivers to be used with this BSP *board
 * [stm32-mx25l512](https://github.com/STMicroelectronics/stm32-mx25l512)
 * [stm32-otm8009a](https://github.com/STMicroelectronics/stm32-otm8009a)
 * [stm32-wm8994](https://github.com/STMicroelectronics/stm32-wm8994)
+* [stm32-nt35510](https://github.com/STMicroelectronics/stm32-nt35510)
 
 ## Troubleshooting
 
