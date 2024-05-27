@@ -97,10 +97,13 @@
 #define   LCD_ERROR      0x01
 #define   LCD_TIMEOUT    0x02
 
-/** 
-  * @brief  LCD Display OTM8009A DSI Virtual Channel  ID 
-  */ 
-#define LCD_OTM8009A_ID  ((uint32_t) 0)
+/**
+  * @brief  LCD Display DSI Virtual Channel  ID
+  */
+#define LCD_Driver_ID  ((uint32_t) 0)
+
+/* Legacy Define */
+#define LCD_OTM8009A_ID LCD_Driver_ID
 
 /** 
   * @brief  HDMI ADV7533 DSI Virtual Channel  ID  
